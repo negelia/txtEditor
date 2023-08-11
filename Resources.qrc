@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/files">
+        <file>Icons/Exit.png</file>
+        <file>Icons/Open.png</file>
+        <file>Icons/Save as.png</file>
+        <file>Icons/Copy.png</file>
+        <file>Icons/Cut.png</file>
+        <file>Icons/Paste.png</file>
+        <file>Icons/cenetr.png</file>
+        <file>Icons/cut.png</file>
+        <file>Icons/left.png</file>
+        <file>Icons/right.png</file>
+        <file>Icons/new.png</file>
+        <file>Icons/open.png</file>
+        <file>Icons/undo.png</file>
+        <file>Icons/redo.png</file>
+        <file>Icons/color.png</file>
+        <file>Icons/font.png</file>
+    </qresource>
+</RCC>
